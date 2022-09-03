@@ -2,6 +2,9 @@ aiohttp
 python-decouple
 pyaesni
 psutil
+TgCrypto
+python-dotenv
+hachoir
 ffmpeg-python
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
