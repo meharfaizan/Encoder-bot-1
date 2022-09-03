@@ -1,8 +1,10 @@
+telethon
 aiohttp
 python-decouple
 pyaesni
 psutil
 TgCrypto
+heroku3
 python-dotenv
 hachoir
 ffmpeg-python
